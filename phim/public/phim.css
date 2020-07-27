@@ -1,0 +1,49 @@
+body{background-color: #6F6D72;}
+.wrap-phim-left{width: 670px; background-color: rgb(29, 27, 27); float: left;}
+.movie-image{width: fit-content; float: left; padding: 10px;}
+.bread-cum>ul{display: inline-flex; background-color: rgb(39, 37, 37); border-radius: 3px; 
+    border-radius: 2px; width: 100%;
+}
+.bread-cum>ul>li{list-style: none; color: blue; padding: 5px ;}
+.bread-cum>ul>li>::after{padding-left: 10px;
+    color: #cccccc;
+    content: "/\00a0";}
+
+.blocks-btn{background-color:rgba(0, 0, 0, 0.5); width: 315px; 
+    height:fit-content;  align-items: center; display: flex; padding: 12px;
+    position: absolute; bottom: 14px;
+}
+.btn{padding: 10px; border-radius: 4px; margin-left: 8px; }
+#download{background-color :green}
+#trailer{background-color :rgb(26, 70, 192) }
+#xemphim{background-color :rgb(218, 75, 70) }
+.movie-info-right{width: 330px;padding: 10px; float: right;  }
+.info-title{color: rgb(172, 172, 14); font-weight: bold;}
+.el-title{color: rgb(184, 175, 175);}
+.detail-info{color: rgb(170, 164, 164); line-height: 1.5rem;
+    padding:10px;
+    background-color: rgb(39, 36, 36);}
+.movie-dt, .movie-dd{display: inline;}
+
+.gioi-thieu-phim{width: 650px; background-color: rgb(39, 36, 36) ;
+    position: absolute; }
+.tom-tat{float: left;}
+.thumbnail{width: 148px; height: 197px; position: relative; float: left}
+.link-trailer{position: absolute;
+    display: block;
+    background-color: black;
+    padding: 13px 20px;
+    width: 148px;
+    bottom: 0;
+    opacity: .7;
+    color: blue; }
+.tom-tat-phim{float: right; width: 400px;margin: 8px 21px; }
+.noidung{background-color: rgb(63, 59, 59);
+    color: gray;
+    padding: 12px;
+    border: 1px solid black;
+    margin-top: 10px;}
+.phim{padding: 5px;}
+
+
+
